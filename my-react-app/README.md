@@ -1,16 +1,80 @@
-# React + Vite
+# 💡 Lantern ON/OFF App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive React-based web application that simulates a lantern light switch. Users can toggle the lantern between ON and OFF states with a single click, demonstrating React state management and dynamic UI updates.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://light-tern-off-on-app347-nwu5.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Turn the lantern ON and OFF instantly
+* Interactive and user-friendly interface
+* Real-time UI updates using React state
+* Responsive design for different screen sizes
+* Fast deployment with Vercel
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
+* Vercel
+
+## 📂 Project Structure
+
+```bash
+src/
+├── components/
+├── App.jsx
+├── main.jsx
+public/
+```
+
+## 🎯 Learning Objectives
+
+This project was built to practice:
+
+* React Components
+* State Management with useState
+* Event Handling
+* Conditional Rendering
+* Vite Project Setup and Deployment
+
+## 🔧 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ritanshusharma2/Light-tern-off-On-app347.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd my-react-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## 📜 License
+
+This project is open-source and available for learning and educational purposes.
+
+## 👨‍💻 Author
+
+Ritanshu Sharma
+
+Computer Science Engineering Student | Web Developer | Open Source Contributor | Tech Enthusiast
